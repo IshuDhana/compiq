@@ -117,4 +117,4 @@ compiq/
 
 ## Author
 
-**Dhana** — [GitHub](https://github.com/IshuDhana)
+**Iswarya Malayamaan (IshuDhana)** — [GitHub](https://github.com/IshuDhana)
